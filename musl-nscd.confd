@@ -1,0 +1,1 @@
+NSCD_OPTS="-d -p /var/run/nscd.pid"
