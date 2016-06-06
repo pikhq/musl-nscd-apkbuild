@@ -12,7 +12,7 @@ makedepends="$depends_dev"
 install="$pkgname.pre-install $pkgname.post-deinstall"
 subpackages="$pkgname-dev $pkgname-doc"
 source="
-	${pkgname}-${pkgver}.tar.gz::https://github.com/pikhq/musl-nscd/archive/${pkgver}.tar.gz
+	${pkgname}-${pkgver}.tar.gz::https://github.com/pikhq/musl-nscd/archive/v${pkgver}.tar.gz
 	musl-nscd.initd
 	musl-nscd.confd
 	"
