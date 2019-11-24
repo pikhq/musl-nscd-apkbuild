@@ -1,4 +1,4 @@
-# Maintainer: Josiah Worcester <josiahw@gmail.com>
+# Maintainer: Ada Worcester <oss@ada.pikhq.com>
 pkgname=musl-nscd
 pkgver=1.0.1
 pkgrel=0
